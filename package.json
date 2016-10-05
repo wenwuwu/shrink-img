@@ -1,0 +1,33 @@
+{
+  "name": "shrink-img",
+  "version": "0.1.0",
+  "description": "Reduce image size using tinify module.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenwuwu/shrink-img.git"
+  },
+  "dependencies": {
+    "tinify": "1.3.0"
+  },
+  "keywords": [
+    "shrink",
+    "image",
+    "resize",
+    "reduce",
+    "tinify",
+    "tinypng"
+  ],
+  "author": "Wenwu Wu <wen.v.wu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wenwuwu/shrink-img/issues"
+  },
+  "homepage": "https://github.com/wenwuwu/shrink-img#readme"
+}
