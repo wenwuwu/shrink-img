@@ -1,6 +1,6 @@
 {
   "name": "shrink-img",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Reduce image size using tinify module.",
   "main": "lib/index.js",
   "directories": {
